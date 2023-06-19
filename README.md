@@ -5,6 +5,8 @@ PyCon SG 2023 Resources from Microsoft
 
 [Artificial Intelligence for Beginners - A Curriculum](https://microsoft.github.io/AI-For-Beginners/?id=getting-started)
 
+[Machine Learning for Beginners - A Curriculum](https://microsoft.github.io/ML-For-Beginners/#/)
+
 [Microsoft Certified: Azure AI Engineer Associate (AI-102) ](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
 
 [Get started with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/get-started-openai/)
