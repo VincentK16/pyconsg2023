@@ -1,5 +1,5 @@
 # PyCon SG 2023
-PyCon SG 2023 Resources (from Microsoft)
+PyCon SG 2023 Resources from Microsoft
 
 [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/)
 
