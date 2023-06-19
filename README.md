@@ -1,2 +1,4 @@
-# pyconsg2023
-pyconSG2023
+# PyCon SG 2023
+PyCon SG 2023 Resources 
+
+
