@@ -11,6 +11,8 @@ PyCon SG Education Summit 2023 Resources from Microsoft
 
 [Microsoft Certified: Azure AI Engineer Associate (AI-102) ](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
 
+[Build in the cloud free with Azure for Students](https://azure.microsoft.com/en-us/free/students/)
+
 [Get started with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/get-started-openai/)
 
 **Connect with me on LinkedIn**
