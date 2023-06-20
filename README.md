@@ -9,11 +9,11 @@ PyCon SG Education Summit 2023 Resources from Microsoft
 
 [Data Science for Beginners - A Curriculum](https://microsoft.github.io/Data-Science-For-Beginners/#/)
 
-[Microsoft Certified: Azure AI Engineer Associate (AI-102) ](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
-
 [Build in the cloud free with Azure for Students](https://azure.microsoft.com/en-us/free/students/)
 
 [Get started with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/get-started-openai/)
+
+[Microsoft Certified: Azure AI Engineer Associate (AI-102) ](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
 
 [Students Certifications - Microsoft](https://learn.microsoft.com/en-us/training/student-hub/certifications)
 
